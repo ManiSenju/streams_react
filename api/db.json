@@ -1,0 +1,59 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "great stream",
+      "id": 1
+    },
+    {
+      "title": "test stream",
+      "description": "created by me",
+      "userId": {
+        "isSignedIn": true,
+        "userId": "113434557358961648504"
+      },
+      "id": 2
+    },
+    {
+      "title": "test stream",
+      "description": "created by me",
+      "userId": {
+        "isSignedIn": true,
+        "userId": "113434557358961648504"
+      },
+      "id": 3
+    },
+    {
+      "title": "testing3",
+      "description": "description 3",
+      "userId": {
+        "isSignedIn": false,
+        "userId": null
+      },
+      "id": 4
+    },
+    {
+      "title": "re test 5",
+      "description": "re des 5",
+      "id": 6
+    },
+    {
+      "title": "test 6",
+      "description": "des 6",
+      "userId": "113434557358961648504",
+      "id": 8
+    },
+    {
+      "title": "test 7",
+      "description": "des 7",
+      "userId": "113434557358961648504",
+      "id": 9
+    },
+    {
+      "title": "test9",
+      "description": "desc9",
+      "userId": "113434557358961648504",
+      "id": 10
+    }
+  ]
+}
